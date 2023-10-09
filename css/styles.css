@@ -89,3 +89,7 @@ nav ul li{
     display: inline;
     margin: 1em;
 }
+
+main p {
+    width: 60%;
+}
